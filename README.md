@@ -1,8 +1,7 @@
 ### Hello there 👋, I'm Lucas!
 
-**Get in touch: **<img  />
-         <img href="https://www.qries.com/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
+**Get in touch: **[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](google.com)
+         
 About me 💭
   
 <!--
