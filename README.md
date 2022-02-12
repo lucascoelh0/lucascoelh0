@@ -1,8 +1,8 @@
 ### Hello there 👋, I'm Lucas!
 
-**Get in touch: **<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+**Get in touch: **<img  />
       <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
          width=150" height="70">
       </a>
 
