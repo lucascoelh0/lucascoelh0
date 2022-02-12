@@ -1,6 +1,4 @@
-<p align="center">
-  ## Hello there 👋, I'm Lucas!
-</p>
+## Hello there 👋, I'm Lucas!
 
 **Get in touch:**
 
