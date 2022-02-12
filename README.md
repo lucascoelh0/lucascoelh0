@@ -1,5 +1,5 @@
 # Hello there 👋, I'm Lucas!
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="Android Studio"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android Studio"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645775-a9ef1f80-7492-11eb-80aa-54c4dc30b9f8.png" alt="Kotlin"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645827-d60aa080-7492-11eb-9f4e-9f92289dca3c.png" alt="Firebase"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108646955-35b67b00-7496-11eb-8c05-4f416fcfd554.png" alt="SQLite"/></code>
