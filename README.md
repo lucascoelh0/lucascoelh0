@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello there 👋, I'm Lucas!
 
+**Get in touch: **<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
+
+About me 💭
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+  
 <!--
 **lucascoelh0/lucascoelh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
