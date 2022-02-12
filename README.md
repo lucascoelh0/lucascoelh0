@@ -1,6 +1,7 @@
 ### Hello there 👋, I'm Lucas!
 
-**Get in touch: **[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](google.com)
+**Get in touch: **[<img alt="alt_text" width="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com/)
+[![name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](google.com)
          
 About me 💭
   
