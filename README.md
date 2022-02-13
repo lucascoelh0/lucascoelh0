@@ -16,7 +16,7 @@
 
 ### About me:
 
-I'm a mid level Android developer and a passionate learner who's always willing to learn different technologies. I'm currently learning flutter and plan to learn iOS developement, I even built a hackintosh already 😄
+I'm a mid level Android developer and a passionate learner who's always willing to learn different technologies. I'm currently learning flutter and plan to learn iOS developement. 😄
 
 ### Get in touch:
 
