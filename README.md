@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Lucas!
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 
 [<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://developer.android.com/studio)
 [<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
