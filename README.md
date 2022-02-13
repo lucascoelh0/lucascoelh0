@@ -7,6 +7,10 @@
 [<img align="left" alt="ReactJs" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
 [<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)  
 
+<br />
+<br />
+<br />
+
 **Get in touch:**
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucascoelhodossantos/)
