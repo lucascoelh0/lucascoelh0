@@ -1,13 +1,13 @@
 # Hello there 👋, I'm Lucas!
 
-### Languages and Tools
-
 [<img align="left" alt="Android" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://developer.android.com/studio)
 [<img align="left" alt="Kotlin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
 [<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://www.java.com)
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://www.javascript.com/)
-[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />](https://firebase.google.com/)
 [<img align="left" alt="ReactJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />](https://reactjs.org/)
+[<img align="left" alt="Html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />](https://firebase.google.com/)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)  
 
 <br />
@@ -15,6 +15,8 @@
 <br />
 
 ### About me:
+
+I'm a mid level Android developer and a passionate learner who's always willing to learn different technologies. I'm currently learning flutter and plan to learn iOS developement, I even built a hackintosh already 😄
 
 ### Get in touch:
 
