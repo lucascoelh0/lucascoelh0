@@ -11,8 +11,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](https://www.mysql.com/)  
 
 <br />
-<br />
-<br />
 
 ### About me:
 
