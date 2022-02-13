@@ -16,7 +16,7 @@
 ### Get in touch:
 
 [<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lucascoelhodossantos/)
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />](https://www.instagram.com/chutaportao/)
+[<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />](https://www.instagram.com/chutaportao/)
   
 <!--
 **lucascoelh0/lucascoelh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
