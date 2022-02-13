@@ -1,4 +1,7 @@
 # Hello there 👋, I'm Lucas!
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://developer.android.com/studio)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://code.visualstudio.com/download)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://code.visualstudio.com/download)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://code.visualstudio.com/download)
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android Studio"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/58220939/108645775-a9ef1f80-7492-11eb-80aa-54c4dc30b9f8.png" alt="Kotlin"/></code>
